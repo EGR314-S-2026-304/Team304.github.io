@@ -19,38 +19,29 @@ _Table #: Project Roles and Duties_
 ## Communication Channels
 
 ### Team Communication Method
-
->This is an area where teams often get into trouble. You should specific the channel(s)/method(s) for the team communication along with notes on the expectation in responce time.
+As a team, we have decided the primary method of communication is through Discord.
 
 *Table #: Team Members' Preferred Communication Modes*
 
 | **Name** | **First Choice Communication** | **Second Choice Communication** | **Third Choice Communication** |
 | :------- | :----------------------------- | :------------------------------ | :----------------------------- |
-| Member 1 |                                |                                 |                                |
-| Member 2 |                                |                                 |                                |
-| Member 3 |                                |                                 |                                |
-| Member 4 |                                |                                 |                                |
-| Member 5 |                                |                                 |                                |
+| Michael |   Discord                             |    Email                            |   in-person                             |
+| Hafsa |                                |                                 |                                |
+| Roshan |                                |                                 |                                |
+| Dylan |                                |                                 |                                |
+| Quinn |                                |                                 |                                |
 
 ### Communication Procedures
 
-Then, answer the following question as a team:
+Discord was agreed upon as the primary method of communication outside of class. It is expected that a response from at least one group member will be received throughout the day. The primary procedure if a team member is dissatisfied with the team is to bring the issue within the team first, and if nothing changes, then to direct communication with the course instructor to resolve the issue.
 
-* Discord was the agreed .....
-* It is expected a response of ... on the agreed timeframe of ....
-* John Doe will be the point of contact for instructor correspondence? Who is responsible?
-  * Will that be communicated with ... back to the group?
+ 
 
 ### Meeting Schedule and Coordination
 
 >Your team should identify common times for meetings every week. If you are not meeting weekly, your team's chances of success this semester are low
+Team 304 will meet accordingly, using Discord chat and virtual group calls as needed. The meeting will be scheduled ahead of time in person and listed on the Discord chat to keep everyone accomadated and up to speed. As a group, we understand the flexibility of schedule needed for this course, so changes are to be regular and the group will understand and accept changes as long as one gets the required ask of the group completed. As for accountability, all members will agree upon their role and task before the beginning of the project and be responsible necessary work.
 
-* Team will meet ...
-* It with be a ...(face-to-face or virtually)... type of meeting.
-* Reminders for the meetings will be sent by ....
-* Changes to this schedule will be ....
-* Accountability issue will .....
-* For records of accountability, will be noted in the minutes... 
 
 ### Team Coordination & Accountability
 
