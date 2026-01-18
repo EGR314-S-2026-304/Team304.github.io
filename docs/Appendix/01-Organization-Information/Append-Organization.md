@@ -12,7 +12,7 @@ _Table 1: Project Roles and Duties_
 | Michael | Meeting leader    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
 | Roshan | Meeting recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
 | Hafsa | Assignment leader | Coordinates the team's work on a given assignment on Canvas before the due date                                                           |
-| | Project monitor (Software) | Tracks the team's progress on software-related tasks relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
+| Dylan | Project monitor (Software) | Tracks the team's progress on software-related tasks relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 | | Project monitor (Hardware) | Tracks the team's progress on hardware-related tasks relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
 ## Communication Channels
@@ -27,7 +27,7 @@ As a team, we have decided the primary method of communication is through Discor
 | Michael |   Discord                             |    Email                            |   In-person                             |
 | Hafsa | Discord | Email | In-person |
 | Roshan |                                |                                 |                                |
-| Dylan |                                |                                 |                                |
+| Dylan |  Discord                              |       Email                          |          In-person                      |
 | Quinn |                                |                                 |                                |
 
 ### Communication Procedures
