@@ -3,6 +3,7 @@ title: Appendix - Extra Team Organization Information
 ---
 
 ## Roles & Responsibilities
+*Please note that all roles and responsibilities can be mixed among the members. Although it is the person listed below to take care of their personal role, they are not limited to just that role; they can help in other areas as needed.*
 
 _Table 1: Project Roles and Duties_
 
