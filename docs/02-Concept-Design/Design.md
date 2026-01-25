@@ -56,7 +56,7 @@ Below are 100 listed ideas
 | The device                      |             Autonomous observation                   |  Device can observe natural phenomena without direct human presence                                     |
 | The device                      |             Long term data logging                   | Device can collect long term environmental data                                 |
 | The device                      |             Environmental trend monitoring                   | Device can record changes in environmental conditions over time                                  |
-| The device         |     Real time data transmission    |    Device can transmit data collected to users in real time           |
+| The device         |     Real-time data transmission    |    Device can transmit data collected to users in real time           |
 | The device         |     Data analysis support    |    Device can support scientific data analysis          |
 | The device         |     Hazardous environment operation    |   Device can operate in environments that are unsafe for humans           |
 | The device         |     Automated data collection    |    Device can reduce human error in data collection           |
@@ -71,7 +71,7 @@ Below are 100 listed ideas
 | The device         |     Thermal cooling system    |    Device can cool itself in high temperatures          |
 | The device         |     Solar power generation    |    Device has solar panels          |
 | The device         |     Self righting mechanism    |    Device can recover from being flipped over          |
-| The device         |     Self repair capability    |   Device can repair itself in cases of physical damage          |
+| The device         |     Self-repair capability    |   Device can repair itself in cases of physical damage          |
 | The device         |     High temperature operation    |   Device has a high temperature mode          |
 | The device         |     Low temperature operation    |   Device has a low temperature mode          |
 | The device         |     Data protection system    |   Device prioritizes protecting its data in dangerous situations          |
@@ -105,19 +105,10 @@ Below are 100 listed ideas
 | The device         |     Target loss notification    |   Device can alert user if observed object is no longer visible          |
 | The device         |     Data visualization    |   Device can plot charts based on gathered data over several sessions          |
 | The device         |     Sustainable enclosure    |   Device housing is made from recyclable materials          |
-| The device         |     Multi phenomenon sensing    |   Device can be used to observe multiple types of phenomena          |
+| The device         |     Multi-phenomenon sensing    |   Device can be used to observe multiple types of phenomena          |
 | The device         |     Battery monitoring    |   Device can alert user of battery level          |
-| The device         |     Wireless command interface    |   Device can accept commands from user using Bluetooth or Wi-Fi          |
+| The device         |     Wireless command interface    |   Device can accept commands from the user using Bluetooth or Wi-Fi          |
 | The device         |     Ambient temperature sensing    |   Device has a temperature sensor to monitor external temperatures          |
-| The device         |     ...    |   ...........         |
-| The device         |     ...    |   ...........         |
-| The device         |     ...    |   ...........         |
-| The device         |     ...    |   ...........         |
-| The device         |     ...    |   ...........         |
-| The device         |     ...    |   ...........         |
-| The device         |     ...    |   ...........         |
-
-
 
 
 ## Sort, Rank, and Group
