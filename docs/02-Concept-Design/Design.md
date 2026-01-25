@@ -38,9 +38,9 @@ Below are 100 listed ideas
 | The device                      |              Speed control                   | Device can adjust speed                                         |
 | The device                      |             Auto return function                   | Device can return to starting point                                       |
 | The device                      |             GPS integration                  | Device can connect to GPS                                         |
-| The device                      |              USB C charging                  | Device can be recharged via. USB-C                                        |
+| The device                      |              USB-C charging                  | Device can be recharged via. USB-C                                        |
 | The device                      |              Protective enclosure                  | Device housing can protect internal components                                         |
-| The device                      |              Fault protection                   |Device can safely shut down if electrical fails                                         |
+| The device                      |              Fault protection                   |Device can safely shut down if the electrical fails                                         |
 | The device                      |              Expandability                   | Device accepts interchangeable components for upgrades                                        |
 | The device                      |             Firmware update support                   | Device supports future software updates                                         |
 | The device                      |              Wind resistance                   | Device handles extreme winds                                       |
@@ -56,7 +56,66 @@ Below are 100 listed ideas
 | The device                      |             Autonomous observation                   |  Device can observe natural phenomena without direct human presence                                     |
 | The device                      |             Long term data logging                   | Device can collect long term environmental data                                 |
 | The device                      |             Environmental trend monitoring                   | Device can record changes in environmental conditions over time                                  |
-
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
+| The device         |     ...    |   ...........         |
 
 
 ## Sort, Rank, and Group
