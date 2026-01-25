@@ -15,47 +15,47 @@ Below are 100 listed ideas
 |                   requirement / need |             feature              | detail                                                                      |
 | -----------------------------------: | :------------------------------: | --------------------------------------------------------------------------- |
 | The device                      |              Display and HMI                   | Device has an LED screen to display data and for HMI                                         |
-| The device                      |              RGB LED                   | Device has a camera to record observations                                        |
-| The device                      |              RGB LED                   | Device can save/store the data that it collects                                         |
-| The device                      |              RGB LED                   | Device is designed to withstand outdoor conditions                                         |
-| The device                      |              RGB LED                   | Device is mountable                                         |
-| The device                      |              RGB LED                   | Device has a motor to accurately position sensors for data collection                                         |
-| The device                      |              RGB LED                   | Device has focus features                                         |
-| The device                      |              RGB LED                   | Device can zoom in-out                                         |
-| The device                      |              RGB LED                   | Device is portable                                          |
-| The device                      |              RGB LED                   | Device is submersible                                         |
-| The device                      |              RGB LED                   | Device contains an on/off switch                                        |
-| The device                      |              RGB LED                   | Device runs off batteries                                         |
-| The device                      |              RGB LED                   | Device power supply is from wall outlet                                        |
-| The device                      |              RGB LED                   | Device can be used remotely                                         |
-| The device                      |              RGB LED                   | Device has replaceable parts                                        |
-| The device                      |              RGB LED                   | Device uses LEDs to show operation                                         |
-| The device                      |              RGB LED                   | Device’s HMI is illuminated for ease of operation                                         |
-| The device                      |              RGB LED                   | Device transmits data wirelessly through Bluetooth                                         |
-| The device                      |              RGB LED                   | Device has stable base component                                        |
-| The device                      |              RGB LED                   | Device can capture low light scenarios                                         |
-| The device                      |              RGB LED                   | Device can navigate uneven terrain                                         |
-| The device                      |              RGB LED                   | Device can adjust speed                                         |
-| The device                      |              RGB LED                   | Device can return to starting point                                       |
-| The device                      |              RGB LED                   | Device can connect to GPS                                         |
-| The device                      |              RGB LED                   | Device can be recharged via. USB-C                                        |
-| The device                      |              RGB LED                   | Device housing can protect internal components                                         |
-| The device                      |              RGB LED                   |Device can safely shut down if electrical fails                                         |
-| The device                      |              RGB LED                   | Device accepts interchangeable components for upgrades                                        |
-| The device                      |              RGB LED                   | Device supports future software updates                                         |
-| The device                      |              RGB LED                   | Device handles extreme winds                                       |
-| The device                      |              RGB LED                   | Device can withstand crash landing                                        |
-| The device                      |              RGB LED                   | Device does not need a license to operate                                        |
-| The device                      |              RGB LED                   | Device can recorrect position if out of position                                         |
-| The device                      |              RGB LED                   | Device can operate with low signal                                       |
-| The device                      |              RGB LED                   | Device can detect hazardous environmental conditions                                       |
-| The device                      |              RGB LED                   |  Device can play sounds                                      |
-| The device                      |              RGB LED                   |  Device can alert if danger is present                                        |
-| The device                      |              RGB LED                   | Device can switch between controlled and autonomous modes                                       |
-| The device                      |              RGB LED                   |  Device can track a selectable object                                      |
-| The device                      |              RGB LED                   |  Device can observe natural phenomena without direct human presence                                     |
-| The device                      |              RGB LED                   | Device can collect long term environmental data                                 |
-| The device                      |              RGB LED                   | Device can record changes in environmental conditions over time                                  |
+| The device                      |             Camera system                   | Device has a camera to record observations                                        |
+| The device                      |              Data storage                  | Device can save/store the data that it collects                                         |
+| The device                      |             Environmental durability                   | Device is designed to withstand outdoor conditions                                         |
+| The device                      |            Mounting system                  | Device is mountable                                         |
+| The device                      |             Motorized positioning                  | Device has a motor to accurately position sensors for data collection                                         |
+| The device                      |             Camera focus control                  | Device has focus features                                         |
+| The device                      |             Optical zoom                   | Device can zoom in-out                                         |
+| The device                      |              Portability                  | Device is portable                                          |
+| The device                      |             Water resistance                   | Device is submersible                                         |
+| The device                      |             Power control                   | Device contains an on/off switch                                        |
+| The device                      |             Battery power                   | Device runs off batteries                                         |
+| The device                      |              External power supply                   | Device power supply is from wall outlet                                        |
+| The device                      |             Remote operation                  | Device can be used remotely                                         |
+| The device                      |             Modular components                   | Device has replaceable parts                                        |
+| The device                      |              Status indicators                 | Device uses LEDs to show operation                                         |
+| The device                      |              Backlit interface                   | Device’s HMI is illuminated for ease of operation                                         |
+| The device                      |              Bluetooth communication                   | Device transmits data wirelessly through Bluetooth                                         |
+| The device                      |              Base stabilization                   | Device has stable base component                                        |
+| The device                      |             Low light imaging                   | Device can capture low light scenarios                                         |
+| The device                      |              Terrain mobilityD                   | Device can navigate uneven terrain                                         |
+| The device                      |              Speed control                   | Device can adjust speed                                         |
+| The device                      |             Auto return function                   | Device can return to starting point                                       |
+| The device                      |             GPS integration                  | Device can connect to GPS                                         |
+| The device                      |              USB C charging                  | Device can be recharged via. USB-C                                        |
+| The device                      |              Protective enclosure                  | Device housing can protect internal components                                         |
+| The device                      |              Fault protection                   |Device can safely shut down if electrical fails                                         |
+| The device                      |              Expandability                   | Device accepts interchangeable components for upgrades                                        |
+| The device                      |             Firmware update support                   | Device supports future software updates                                         |
+| The device                      |              Wind resistance                   | Device handles extreme winds                                       |
+| The device                      |             Impact resistance                   | Device can withstand crash landing                                        |
+| The device                      |              Regulatory compliance                  | Device does not need a license to operate                                        |
+| The device                      |              Self correction system                   | Device can recorrect position if out of position                                         |
+| The device                      |              Low signal operation                   | Device can operate with low signal                                       |
+| The device                      |             Hazard detection                   | Device can detect hazardous environmental conditions                                       |
+| The device                      |             Audio output                   |  Device can play sounds                                      |
+| The device                      |              Alert and warning system                  |  Device can alert if danger is present                                        |
+| The device                      |              Mode switching                   | Device can switch between controlled and autonomous modes                                       |
+| The device                      |              Object tracking                  |  Device can track a selectable object                                      |
+| The device                      |             Autonomous observation                   |  Device can observe natural phenomena without direct human presence                                     |
+| The device                      |             Long term data logging                   | Device can collect long term environmental data                                 |
+| The device                      |             Environmental trend monitoring                   | Device can record changes in environmental conditions over time                                  |
 
 
 
