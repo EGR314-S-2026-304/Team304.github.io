@@ -12,7 +12,7 @@ As for the audience of our device, we want to target the curious, anyone interes
 
 Below are ~100 listed ideas
 
-| #      |             feature              | detail                                                                      |
+| #      |             Features              |                                        Detail                                     |
 |:-------: | :------------------------------: | --------------------------------------------------------------------------- |
 |  1.  |              Display and HMI                   | Device has an LED screen to display data and for HMI          |
 |2.|             Camera system                   | Device has a camera to record observations                      |
