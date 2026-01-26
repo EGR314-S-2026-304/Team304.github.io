@@ -143,6 +143,6 @@ The Extended Eye drone can increase your exploration duties as it increases your
 
 
 ## Final Selection
-In terms of final selection, Team 304 did a brainstorming process over Discord. As a team, we came up with ~100 concepts, both helpful and non-helpful, then conducted a ranking order by placing them into 5 groups, which we felt were necessary. We then took all the data and, as a team, concluded on the EV-Scope. 
+In terms of final selection, Team 304 did a brainstorming process over Discord. As a team, we came up with ~100 concepts, both helpful and non-helpful, then conducted a ranking order by placing them into 5 groups, which we felt were necessary. We then took all the data and, as a team, concluded on the **EV-Scope**. 
 
 The EV Scope is our exploration device, designed to observe and capture the cosmos and structures with precision and clarity. Our goal is to study objects from afar, bringing otherwise unreachable details into focus through advanced imaging capabilities. Despite the simple and compact design, the EV Scope delivers sufficient power and accuracy to produce high-quality images of distant objects, structures, and environments, making exploration both accessible and effective.
