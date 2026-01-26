@@ -130,8 +130,12 @@ Here, we created 5 groups which we felt were important, and sorted the 94 concep
 # Prototype 1: EV-Scope Cad Model
 ![EVSCOPE](image/CADD_MODEL.png)
 
+The CAD drawing of the EV-scope prototype, enriched with a powerful camera and strong software compatibility, is a small and powerful device that can explore the cosmos and more.
+
 # Prototype 2: Extended Eye Drone
 ![ExtendedEye](image/ExtendedEye.png)
+
+The Extended Eye drone can increase your exploration duties as it increases your focus area. You can now go places without having to set foot in the actual area, and it transmits, records, and captures all the moments in your exploration. With upgradable hardware, new explorations can be done more advanced than ever.
 
 
 # Prototype 3: 
@@ -140,3 +144,4 @@ Here, we created 5 groups which we felt were important, and sorted the 94 concep
 
 
 ## Final Selection
+In terms of final selection, Team 304 felt that our brainstorm concluded with an EV-Scope. For our exploration device, we chose to look at the stars or other structures from afar and perfectly capture them. With a simple and small design, but still enough power to capture advanced images of objects, structures, etc. from afar. 
