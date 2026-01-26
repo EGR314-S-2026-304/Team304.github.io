@@ -127,18 +127,17 @@ Here, we created 5 groups which we felt were important, and sorted the 94 concep
 
 
 ## Concept Sketch's
-# Prototype 1: EV-Scope Cad Model
+**Prototype 1: EV-Scope Cad Model**
 ![EVSCOPE](image/CADD_MODEL.png)
 
 The CAD drawing of the EV-scope prototype, enriched with a powerful camera and strong software compatibility, is a small and powerful device that can explore the cosmos and more.
 
-# Prototype 2: Extended Eye Drone
+**Prototype 2: Extended Eye Drone**
 ![ExtendedEye](image/ExtendedEye.png)
 
 The Extended Eye drone can increase your exploration duties as it increases your focus area. You can now go places without having to set foot in the actual area, and it transmits, records, and captures all the moments in your exploration. With upgradable hardware, new explorations can be done more advanced than ever.
 
-
-# Prototype 3: 
+**Prototype 3:**
 ![P3](image/insertlinkhere.png)
 
 
