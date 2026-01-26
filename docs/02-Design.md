@@ -138,11 +138,9 @@ The CAD drawing of the EV-scope prototype, enriched with a powerful camera and s
 The Extended Eye drone can increase your exploration duties as it increases your focus area. You can now go places without having to set foot in the actual area, and it transmits, records, and captures all the moments in your exploration. With upgradable hardware, new explorations can be done more advanced than ever.
 
 **Prototype 3: Sonar Exploration**
-![]()<img width="1536" height="1024" alt="1b6e0207-86dc-4fb8-bfb0-2fb26ee978be" src="https://github.com/user-attachments/assets/1cf11fbf-46b7-4ac7-bb2b-9a3baaa410e1" />
+![SubConcept](image/Sub.png)
 
-
-
-The submarine is a compact, remotely operated underwater vehicle designed for exploration and data collection. It uses a front mounted sonar and camera system to scan and observe its surroundings, while onboard sensors and thrusters allow for precise navigation and real time data transmission.
+The submarine is a compact, remotely operated underwater vehicle designed for exploration and data collection. It uses a front-mounted sonar and camera system to scan and observe its surroundings, while onboard sensors and thrusters allow for precise navigation and real-time data transmission.
 
 ## Final Selection
 In terms of final selection, Team 304 did a brainstorming process over Discord. As a team, we came up with ~100 concepts, both helpful and non-helpful, then conducted a ranking order by placing them into 5 groups, which we felt were necessary. We then took all the data and, as a team, concluded on the **EV-Scope**. 
