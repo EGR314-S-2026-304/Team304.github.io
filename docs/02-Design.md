@@ -128,7 +128,7 @@ Here, we created 5 groups which we felt were important, and sorted the 98 concep
 
 ## Concept Sketch's
 **Prototype 1: EV-Scope Cad Model**
-![EVSCOPE](image/CADD_MODEL.png)
+![EVSCOPE](image/CADD_MODEL1.png)
 
 The CAD drawing of the EV-scope prototype, enriched with a powerful camera and strong software compatibility, is a small and powerful device that can explore the cosmos and more.
 
