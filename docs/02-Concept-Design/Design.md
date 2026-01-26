@@ -117,11 +117,11 @@ Below are 100 listed ideas
 
 
 ## Concept Sketch's
-# Prototype 1:
-![EVSCOPE](CADD_MODEL.png)
+# Prototype 1: EV-Scope Cad Model
+![EVSCOPE](image/CADD_MODEL.png)
 
-# Prototype 2: 
-![P2](image/insertlinkhere.png)
+# Prototype 2: Extended Eye Drone
+![ExtendedEye](image/ExtendedEye.png)
 
 
 # Prototype 3: 
