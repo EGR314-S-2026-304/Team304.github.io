@@ -138,9 +138,9 @@ The CAD drawing of the EV-scope prototype, enriched with a powerful camera and s
 The Extended Eye drone can increase your exploration duties as it increases your focus area. You can now go places without having to set foot in the actual area, and it transmits, records, and captures all the moments in your exploration. With upgradable hardware, new explorations can be done more advanced than ever.
 
 **Prototype 3:**
-![P3](image/insertlinkhere.png)
+![Rover3000](image/Concept3Sketch.png)
 
-
+The Rover3000 is a rover with 360-view cameras, a built and rectractable telescope, G-Grippers for handling any possible samples, as well as storage for both hot and cold samples. It can both go on solid ground as well as on and in any liquid. It can be used for both imaging of terrestrial objects as well as the collection of samples from those terrains.
 
 ## Final Selection
 In terms of final selection, Team 304 did a brainstorming process over Discord. As a team, we came up with ~100 concepts, both helpful and non-helpful, then conducted a ranking order by placing them into 5 groups, which we felt were necessary. We then took all the data and, as a team, concluded on the **EV-Scope**. 
