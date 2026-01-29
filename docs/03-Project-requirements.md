@@ -16,8 +16,8 @@ The following sections document the requirements that Team 304 should meet. Belo
 
 | **Requirement Description** | **Measure of<br> Threshold** | **Target<br>Measure** |**Stretch<br>Requirement<br>(Y-N)**|
 |-----------------------------| ----------------- | ----------------- | :-----: |
-| Surface mounted, 3.3V switching power regulator | 3.2 Volts | 3.3 Volts | No |
-| Surface mounted microcontroller | 1 PIC or ESP | 8-bit PIC | No |
+| ... | ... | ... | No |
+| ... | ... | ... | No |
 | Wireless Communication | Able to send or receive a Wi-Fi data | Send and receive Wi-Fi Data to MQTT | no |
 | Housing | Full 3d printed housing for all components | Safely stores and looks like an EV-Scope | Yes |
 | Motors | Able to be precisely moved | millimeters | no |
