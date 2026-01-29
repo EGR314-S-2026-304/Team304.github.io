@@ -27,6 +27,6 @@ The following sections document the requirements that Team 304 should meet. Belo
 |---------------| -----------------------------------|
 |    Michael   |                Selection and Switch (Change this)                       |
 |    Hafsa     |                User Interface (Change this)                        |
-|    Dylan     |                WI-FI connectivity: To allow the user to remotely access images and control the telescope, the system must support wireless communication. Wi Fi enables the telescope to transmit camera data to a phone or computer and receive user commands without a physical connection. This improves usability and allows the telescope to be operated from a distance.                      |
+|    Dylan     |               The system shall include an onboard Wi Fi communication module capable of establishing a stable connection to a local wireless network in order to transmit camera image data to a remote user device and receive control commands for telescope operation.                   |
 |    Roshan    |                Camera System (Change this)                        |
 |    Quinn     |                Motor System (Change this)                        |
